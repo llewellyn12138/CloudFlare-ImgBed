@@ -1,0 +1,9 @@
+name = "llewellyn-imgbed"
+compatibility_date = "2025-01-06"
+
+[vars]
+AllowRandom = "true"
+BASIC_USER = "llewellyn"
+BASIC_PASS = "lly13145920"
+TG_BOT_TOKEN = "8069345614:AAFnwZlcrinWbDlod-lHrL0e49-gMVUec-I"
+TG_CHAT_ID = "1674659852"
