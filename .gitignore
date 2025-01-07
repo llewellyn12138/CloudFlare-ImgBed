@@ -4,3 +4,4 @@ node_modules/.mf/*
 data/*
 /node_modules
 /node_modules
+wrangler.toml
